@@ -1,0 +1,11 @@
+echo "# Melodash" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yl18115/Melodash.git
+git push -u origin masterecho "# Melodash" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yl18115/Melodash.git
+git push -u origin master
